@@ -2,8 +2,7 @@ PandaLin
 ========
 Aims to:
 
-	Pandaboard and Pandaboard ES image creation with some capabilities based on 
-Buildroot.
+	Pandaboard and Pandaboard ES image creation with some capabilities based on Buildroot.
 		
 		- rootfs
 		- x-loader (MLO)
@@ -16,8 +15,8 @@ Buildroot.
 
 After cloning project into your local;
 
-	- If you don't have already, you install some packages your linux based 
-system.
+	- If you don't have already, you install some packages your linux based system.
+
 	List of these packages: 
 		
 		http://buildroot.uclibc.org/downloads/manual/manual.html#_starting_up
