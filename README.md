@@ -15,7 +15,7 @@ Aims to:
 
 After cloning project into your local;
 
-	- If you don't have already, you install some packages your linux based system.
+	- If you don't have already, you should install some packages to your linux based system.
 
 	List of these packages: 
 		
