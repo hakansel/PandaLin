@@ -21,4 +21,8 @@ After cloning project into your local;
 		
 		http://buildroot.uclibc.org/downloads/manual/manual.html#_starting_up
 
-	
+	- Before building your system that needed to toolchain, you should toolchain. PandaLin use
+	toolchain of Linaro 2012.06 version. You shoul download it and untar it to /opt/toolchains.
+
+Dowload link:
+https://launchpad.net/linaro-toolchain-binaries/trunk/2012.06/+download/gcc-linaro-arm-linux-gnueabihf-2012.06-20120625_linux.tar.bz2
