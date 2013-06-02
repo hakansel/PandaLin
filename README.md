@@ -26,3 +26,7 @@ After cloning project into your local;
 
 Toolchain Dowload link:
 https://launchpad.net/linaro-toolchain-binaries/trunk/2012.06/+download/gcc-linaro-arm-linux-gnueabihf-2012.06-20120625_linux.tar.bz2
+
+	- After all downloading steps you should just "make" in path PandaLin.
+
+
