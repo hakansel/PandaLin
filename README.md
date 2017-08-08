@@ -19,7 +19,7 @@ After cloning project into your local;
 
 	List of these packages: 
 		
-		http://buildroot.uclibc.org/downloads/manual/manual.html#_starting_up
+		http://buildroot.uclibc.org/downloads/manual/manual.html#requirement-mandatory
 
 	- Before building your system that needed to toolchain, you should download toolchain. PandaLin use
 	toolchain of Linaro 2012.06 version. You should download it and untar it to /opt/toolchains.
